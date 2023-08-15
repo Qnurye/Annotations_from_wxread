@@ -1,0 +1,6 @@
+{
+  "source_directory": "./input.txt",
+  "output_directory": "./output",
+  "template_file_path": "./template/[annotation.source]/[annotation.name].md",
+  "annotation_title_configurable": false
+}
