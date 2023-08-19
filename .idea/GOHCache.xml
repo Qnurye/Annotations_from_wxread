@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Annotation">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/annotation/annotation.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Config">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/config/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Instruction">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/instructions/instructions.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1692101608332" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/annotation/annotation.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1692101693677" />
+              <option name="schema">
+                <list>
+                  <option value="Annotation" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/config/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1692097078125" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/instructions/instructions.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1692088693825" />
+              <option name="schema">
+                <list>
+                  <option value="Instruction" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/utils/utils.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1692088143858" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="annotation" value="Annotation" />
+        <entry key="config" value="Config" />
+        <entry key="instruction" value="Instruction" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1692432385077" />
+  </component>
+</project>
